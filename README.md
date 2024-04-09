@@ -153,7 +153,7 @@ Say Hello to your private AI assistant Jarvis !
    Waiting for installation.
 1. Start OpenDAN through aios_shell
    ```
-   python ./src/srvice/aios_shell/aios_shell.py
+   python ./src/service/aios_shell/aios_shell.py
    ```
    1. If seeing error saying `No ffmpeg exe could be found`, you need to install it manually from https://www.ffmpeg.org/
       
